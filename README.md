@@ -15,8 +15,6 @@ Load and inspect data for topics that were hot worldwide (WW) and in the United 
 
 ## Files
 
-README.md
-
 USTrends.json - Raw JSON from Twitter API (US trends)
 
 WWTrends.json - Raw JSON from Twitter API (Worldwide trends)
