@@ -11,4 +11,4 @@ WWTrends.json
 
 WeLoveTheEarth.json
 
-notebook.ipynb
+Twitter Trend Analysis.ipynb
