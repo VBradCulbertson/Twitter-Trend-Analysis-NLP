@@ -11,9 +11,9 @@ Load and inspect data for topics that were hot worldwide (WW) and in the United 
 * collections
 * matplotlib.pyplot
 
-Twitter Trends2](https://user-images.githubusercontent.com/112103910/188288950-6f4ca50a-b2e1-47d9-a26d-3a6a202d8168.png)
+![Twitter Trends2](https://user-images.githubusercontent.com/112103910/188288950-6f4ca50a-b2e1-47d9-a26d-3a6a202d8168.png)
 
-## Files![
+## Files
 
 README.md
 
