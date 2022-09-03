@@ -1,2 +1,3 @@
-# Election-Tweet-Analysis
-Intro NLP Project - Guided Project
+# Twitter Trend Analysis
+
+## Intro NLP Project - Guided Project
