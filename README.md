@@ -22,4 +22,6 @@ WWTrends.json - Raw JSON from Twitter API (Worldwide trends)
 WeLoveTheEarth.json - Raw JSON from Twitter API (trending topic)
 
 Twitter Trend Analysis.ipynb - Python in Jupyter Notebook with markdown 
-    (** Notebook contains longer than usual outputs of raw data, scroll to the midpoint of the file for the more interesting code.**)
+
+(** Notebook contains longer than usual outputs of raw data to showcase the complexity and difficulty of using raw JSON data files.
+Scroll to the midpoint of the file for the more interesting code.**)
