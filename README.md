@@ -4,7 +4,12 @@
 
 Load and inspect data for topics that were hot worldwide (WW) and in the United States (US) at the moment of query — snapshot of JSON response from the call to Twitter's GET trends/place API. Convert pesky JSON data into usable data frames for easier analysis. 
 
+## Methods/Functions/Packages/Skills
 
+*json.loads
+*json.dumps
+*collections
+*matplotlib.pyplot
 
 
 ![Twitter Trends](https://user-images.githubusercontent.com/112103910/188288691-5210dfcd-2c30-4a6f-baf6-c33c39e6441a.png)
