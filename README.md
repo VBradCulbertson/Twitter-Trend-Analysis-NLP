@@ -17,10 +17,10 @@ Load and inspect data for topics that were hot worldwide (WW) and in the United 
 
 README.md
 
-USTrends.json
+USTrends.json - Raw JSON from Twitter API (US trends)
 
-WWTrends.json
+WWTrends.json - Raw JSON from Twitter API (Worldwide trends)
 
-WeLoveTheEarth.json
+WeLoveTheEarth.json - Raw JSON from Twitter API (trending topic)
 
-Twitter Trend Analysis.ipynb
+Twitter Trend Analysis.ipynb - Python in Jupyter Notebook with markdown
